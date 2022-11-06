@@ -1,0 +1,61 @@
+original_sentence_id	sentence	locale
+9a02fc27040c8141e403cfb5a20ebb92e289eda5ec89c4f2ec100160c220ba0d	Este un lucru care trebuie într-adevăr apreciat.	ro
+9a0f810efbcf078073f334eeff745c6ca879f61358631edf80d0ca28afc40e9e	Barroso și-a schimbat de mai multe ori poziția politică.	ro
+9a1c054943cbd7e41f5cfb534b36f53979ac94e04c4f7099ac958d23afcbc4e0	Răspunsul la această întrebare este evident.	ro
+9a31ef3fa054985ca8e6bab7f97fd1da9da7ec0c48bd3e9c99c85c32c2cf93d6	Acesta este un act normativ redundant.	ro
+9a35c49c4aec557949ef33c8da883aa5c1094c7a842de16a1121172655d178bc	Procedura a fost foarte rapidă și eficientă.	ro
+9a3f518bc4178760555af4b2c3f96b9bb97016e4b0f49a33c6ef921d09235eed	Sper că se vor introduce aceste proceduri rapide.	ro
+9a4b2d458f8b2d60bb672cba111cfc917a01091b609fc973831db536a5560615	Permiteţi-mi să comentez cu privire la două aspecte.	ro
+9a4ed6a6a2af3216d04b27a6ad92bdff8dcd9fea3c7e59ff4bb7ecbed2667668	Ce am putea face pentru a îmbunătăţi situaţia?	ro
+9a4fbffa8aafa3d2d10e3895fcb7dac896a242349b10aa20af8cdcbd26ad5e67	Nu l-am putea accepta în aceste circumstanţe.	ro
+9a530b70ac5b27f1ef288b5c486ba6242e119c30635e58acbe0fbc0c0ee036d5	Este momentul să fim inteligenţi şi ambiţioşi.	ro
+9a53ef28c98789442d03dfee6901eb79c5654a028db84f14868c6822e33e6e58	Autoritățile încă nu i-au permis să se înregistreze.	ro
+9a60c61baef92a35555e473fca3c637e7b9d7e6a0810569366fb09d6fced36a7	Surprizele din viitor nu pot fi niciodată excluse.	ro
+9a6926021f1bdfac1a5ed899bf6981a8bde07fb028530b9c14d20ce13690ea3b	Este esenţială o directivă în acest sens.	ro
+9a6e0e222093e1fe8c6ccf4f6780ec8afa184d7701c0dc66a45bf652a297a2f2	Lovea birourile, a aruncat vreo trei scaune.	ro
+9a70c5034eefd7768da46868899d62a1d55170bb52d5d30a52c42099a76912de	Consider că această promisiune nu este respectată.	ro
+9a71b74e91aa6b5fcdfe0e9a010c79437f417a7d54cb727be5fa29adefb65ed7	Această problemă pare pur şi simplu banală.	ro
+9a7c7482c7d2199207f2b016e21b65a4c0e9dcab162c7e9d715eac36cd133f13	Permiteţi-mi să îmi exprim opinia personală.	ro
+9a7f5018d00f9733353f42e8f7c4c4b70aafeabc786e0cbfeb34d61492a366d7	Pieţele speculează pe marginea prăbuşirii euro.	ro
+9a84ec332e566414d9899e776e1002a16d5975586f4bc3f63cf3754059ac6c90	Aceasta este ceea ce v-am rugat.	ro
+9a87b41657b34d3f9d139ea05e37249da36bf505662069edd76de3e22ee53c34	Trebuie să profităm de această ocazie.	ro
+9a87dffca9b1907b57fbfdec1fb7a21e6ea46d504e42d229d71147db9e2ec667	Răspunsul a fost negativ și raționamentul absurd.	ro
+9a941d3c9375bfe81cf9ad75e2f5cb11c2e9290b419de66c12b55065839bb12d	Mi-l amintesc prea bine în sectorul poştal.	ro
+9aa6965aa00e33a8fe68036ec96053a92ea37cd637c71cdfb94bb10f1f11d6d9	Trebuie să facem mult mai multe pentru tineri.	ro
+9ab36813b318d3994baa49f22d16b9e6cdb467f7efbbf89d310ff9f60e532e05	Trebuie să-i acordăm acesteia sprijinul nostru clar.	ro
+9ab4a3735e6d7067a7cc4a84f83047603062ee0f2c6cded562efc5a57aadffaa	Iti voi gasi cel mai urat mire pentru tine.	ro
+9abb87d35361cfcff831604764a872d691881f38556295689be4b028736ca8ae	Nimeni nu poate nega acest lucru.	ro
+9abf808520f18350f27d2196232c912747af191f1d47a2cb0be0c41742bb13e5	Cum pot fi verificate aceste evoluţii?	ro
+9ad53502c3192260b9117f8abd9476c44fded62a37ac96abfa9ba46b0689eb8c	Avem o responsabilitate comună în lume.	ro
+9ad6216abc23e938e3222d394245775c6e28484178f519fed87620eaa71c809e	Acest lucru generează multă vâlvă, dar puţină mişcare.	ro
+9ad8e1dfd83650ba5d07e96cfb7cface6c2abb75d547720022f000c032a43daa	Deci, de unde provine indignarea mea?	ro
+9ada3a3e750741e091d92c7050ed680ecdc63f01da01281d1a409c4b8e28eb21	Aş dori să fac însă următoarea precizare.	ro
+9adee5351514b710fb3e64d6bce37599ab91f9c08b4ed06457d0bb31245cd968	De aceea coordonarea este deosebit de importantă.	ro
+9af311e18a101c66661e2382c933ca1e142e8dcf1590de42ebf8e83dae90e838	V-aş fi recunoscător dacă mi-aţi permite acest lucru.	ro
+9af6175c5baaa244a4b95183ca4906ecd59caaa6fd435a948fd461f94e96750a	Vă mulţumesc pentru programul pe care l-aţi prezentat.	ro
+9b106aa4b20f0e1f9014101b176d2083b702b3664893b6f772524cdd978b25f0	Trebuie să supraveghem îndeaproape evoluţia situaţiei.	ro
+9b126a2e24779f3fcca970b56d0b8aac829bf8e788938926a1a3b63fadbc88e1	Pur şi simplu nu putem supravieţui fără ea.	ro
+9b13236b96ffe0c5b333eacb9db6586b2f39496076a1f316acb727be8b71ce8a	S-a ajuns la un compromis în urma trialogului.	ro
+9b14d3915d8b5bc9228b768faa3cecceaebb437cf0156707abada38cf25f8107	Bineînțeles că trebuie să avem unul.	ro
+9b196fa2126a0846e7f40276c716eefa806cc2523372ee0b58f9c7363febbc50	Prin urmare, acestea sunt supuse prelucrării online.	ro
+9b203a61c1b54c8ec9674c9aedb637d562a6f1c6fc2b132ad18781cc01dfcdcc	Aceasta reprezintă o importantă bază politică.	ro
+9b29d7fbb3381a49904259f32989d5c099767e5b3a963ffa1cd811975eb6dece	Prin urmare, nu votăm în favoarea raportului.	ro
+9b31fd57c72536164ef65f6342f69cc7add5c81327a6a4e720f09676ef31cbfc	Acestea fiind spuse, voi aborda câteva subiecte.	ro
+9b37e5c090f46723711f0027bfbcadee19da705570164ca67f4e06bc263cf4c1	Trebuie să garantăm condiții optime de lucru.	ro
+9b3ac7078248c6f9bd5a51148dbc2b44fb160b81a229eecee12f7f5231cffb63	Sper că aici suntem pe calea cea bună.	ro
+9b562bb11fe4da81efdab139116d9f5113f53f38b651e9974817943d727b1e71	O nouă consultare tocmai a luat sfârşit.	ro
+9b6441d8d1cdde72768f5e32184cdb0c522c28ed53d630ab95803b5c3249b388	Imaginile violenței pe care le vedem sunt oribile.	ro
+9b6d2674af31a830f0ee5bead72e177a80dbfefcaa43ae3ed471bea7d3ffc1b7	Este pentru ca noi să ne unim forţele.	ro
+9b8001b194327acd5ce60818dd368de3b9a18f95c72a0ac55dfa4fdcda41576d	Sper că vom avea succes în acest scop.	ro
+9b80d39d00a80e2bcc97a00cad08f751b33d55393c504087a2ae164d44cc3a0d	De fapt, situaţia este mult mai complicată.	ro
+9b8d175759ccfb6b9cf97ddfff9a6f326a0ebb21a16cfc423ad4831932bda41a	Toţi suntem diferiţi, toţi suntem egali.	ro
+9bb08f2fb0bca5407251a0d46bb5d8fdc60717c8296af477401cc59f9c5b9748	Dumnezeu a făcut totul din nimic. Dar nimicul răzbate.	ro
+9bbc2bb8625775282e38e7204dc675ed2ab43555d33aa6aa61743ee5db4eff8a	Trebuie să ne ocupăm de această problemă.	ro
+9bc006f9d6f0e9142cb9cfb8c47f9aa487172dedae6c1c27d2ff13c1080d9309	Nici confruntarea nu reprezintă o soluție.	ro
+9bc3be3c521880f277e401240b69552d885862bc4b919fa8a230417844c53a66	Parlamentul vă va sprijini în această direcţie.	ro
+9bc55a0fc53857ab2f975844d902618254bb0d925240a84de8652c6ec26de234	Acești oameni sunt în căutarea unui adăpost temporar.	ro
+9bc7b5a21567e615734594d79473f84c7f0a287a6e6590b949ecb0d7239dbc76	Cred că aceste temeri sunt complet nefondate.	ro
+9bcb84baf6a487bb3bd4bd4b01ce8af064927592647d250ef6c9e7d7f43d5010	Aşadar, această dezbatere este una foarte personală.	ro
+9bd4f142f61610e8da0793f14532858d3f5c980c89a4e0e540d9a0849dbd0913	Toţi trebuie să simtă că au o şansă.	ro
+9bd646b3be1b72ab8b555358c54e0437d15a28dfeeaadee431e0958e15a18f7d	Nouă misiuni şi-au încetat deja activitatea.	ro
+9bf530bb72564728291fb50f9e887bd8ad2d3ac25009ff15ed1e157eedbbdfd6	După cum am spus, speranța de viață crește.	ro
