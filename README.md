@@ -44,7 +44,7 @@ WER definition from Wikipedia:
 
 CER works the same as WER, except we count characters instead of words.
 
-Both are measured from 0 to 1, where lower means better.
+Both are ratios, and lower means better.
 
 ### WER: 1.000000, CER: 0.727700
 
